@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="29px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip24">
+    <mask fill="white" id="clip72">
       <path d="M 431 99  C 429.335 99  428 97.665  428 96  L 428 73  C 428 71.335  429.335 70  431 70  L 449 70  C 450.665 70  452 71.335  452 73  L 452 96  C 452 97.665  450.665 99  449 99  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -428 -70 )">
-    <image preserveAspectRatio="none" style="overflow:visible" width="24" height="29" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAAT1JREFUeAHt2UEOhCAMBVCd+995dN0a6iS2iZPHDgg0fX8lbptBgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECDwLwL7r418z7E6s59jtV+dX519w17Vf+zhExfMZwUEMOudqgkgkcwuCGDWO1UTQCKZXRDArHeqJoBEYoEAAQIECBAgQIAAAQK9Asu3+6vS1Xt+9R5enb+q+aa1qv/Yiy/hKDI8F8AweCwngCgyPBfAMHgsJ4AoMjwXwDB4LCeAKGJOgAABAgQIECBAgACBZgH/Ax4G9j/gYdDu6zxFdAsX9wugAOreFkC3cHG/AAqg7m0BdAsX9wugALJNgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBA4K7AAdkiGC7JmiomAAAAAElFTkSuQmCC" x="428px" y="70px" mask="url(#clip24)" />
+    <image preserveAspectRatio="none" style="overflow:visible" width="24" height="29" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAAT1JREFUeAHt2UEOhCAMBVCd+995dN0a6iS2iZPHDgg0fX8lbptBgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECDwLwL7r418z7E6s59jtV+dX519w17Vf+zhExfMZwUEMOudqgkgkcwuCGDWO1UTQCKZXRDArHeqJoBEYoEAAQIECBAgQIAAAQK9Asu3+6vS1Xt+9R5enb+q+aa1qv/Yiy/hKDI8F8AweCwngCgyPBfAMHgsJ4AoMjwXwDB4LCeAKGJOgAABAgQIECBAgACBZgH/Ax4G9j/gYdDu6zxFdAsX9wugAOreFkC3cHG/AAqg7m0BdAsX9wugALJNgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBAgAABAgQIECBA4K7AAdkiGC7JmiomAAAAAElFTkSuQmCC" x="428px" y="70px" mask="url(#clip72)" />
   </g>
 </svg>

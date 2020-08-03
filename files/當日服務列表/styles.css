@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:972px;
+  width:1015px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -8956,21 +8956,21 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:132px;
+  width:72px;
   height:2px;
 }
 #u278 {
   border-width:0px;
   position:absolute;
-  left:341px;
-  top:608px;
-  width:131px;
+  left:228px;
+  top:669px;
+  width:71px;
   height:1px;
   display:flex;
-  -webkit-transform:rotate(-0.146799037307283deg);
-  -moz-transform:rotate(-0.146799037307283deg);
-  -ms-transform:rotate(-0.146799037307283deg);
-  transform:rotate(-0.146799037307283deg);
+  -webkit-transform:rotate(90.4094401449317deg);
+  -moz-transform:rotate(90.4094401449317deg);
+  -ms-transform:rotate(90.4094401449317deg);
+  transform:rotate(90.4094401449317deg);
 }
 #u278 .text {
   position:absolute;
@@ -9004,8 +9004,8 @@
 #u279 {
   border-width:0px;
   position:absolute;
-  left:475px;
-  top:600px;
+  left:173px;
+  top:712px;
   width:427px;
   height:16px;
   display:flex;
@@ -9019,6 +9019,78 @@
   width:100%;
 }
 #u279_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u280_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:28px;
+  height:2px;
+}
+#u280 {
+  border-width:0px;
+  position:absolute;
+  left:443px;
+  top:629px;
+  width:27px;
+  height:1px;
+  display:flex;
+  -webkit-transform:rotate(-0.408817611515523deg);
+  -moz-transform:rotate(-0.408817611515523deg);
+  -ms-transform:rotate(-0.408817611515523deg);
+  transform:rotate(-0.408817611515523deg);
+}
+#u280 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u280_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u281_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:542px;
+  height:49px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#F59A23;
+}
+#u281 {
+  border-width:0px;
+  position:absolute;
+  left:473px;
+  top:621px;
+  width:542px;
+  height:49px;
+  display:flex;
+  color:#F59A23;
+}
+#u281 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u281_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
